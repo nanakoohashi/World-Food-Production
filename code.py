@@ -26,13 +26,18 @@ df
 
 # In[3]:
 
-df_homeless.info()
+df.head()
 
 
 # In[4]:
 
-df.head()
+df.shape()
 
 
 # In[5]:
+
+df.info()
+
+
+# In[6]:
 df.describe()
