@@ -21,4 +21,9 @@ import numpy as np
 df = pd.read_csv('world-foodfeed-production.csv', encoding = "ISO-8859-1")
 df
 
+
 # ## Assess
+
+# In[3]:
+
+df_homeless.info()
