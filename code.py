@@ -48,5 +48,11 @@ df.dtypes
 df.describe()
 
 
+# In[8]:
+
+# View missing value count for each feature.
+df.isnull().sum()
+
+
 # #### Structure of Dataset
 There are 21,477 entries in this dataset with 58 features (Area Abbreviation, Area Code, Area, Item Code, Item, Element Code, Element, latitude, longitude, Years 1961 to 2013).
