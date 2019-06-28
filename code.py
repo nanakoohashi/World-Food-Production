@@ -40,4 +40,8 @@ df.info()
 
 
 # In[6]:
+
+df.dtypes
+
+# In[6]:
 df.describe()
