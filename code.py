@@ -20,3 +20,5 @@ import numpy as np
 # In[2]:
 df = pd.read_csv('world-foodfeed-production.csv', encoding = "ISO-8859-1")
 df
+
+# ## Assess
