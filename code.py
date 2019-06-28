@@ -7,7 +7,7 @@
 
 # ## Gather
 
-# In[6]:
+# In[1]:
 
 import pandas as pd
 import zipfile
@@ -15,3 +15,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 % matplotlib inline
+
+
+# In[2]:
+df = pd.read_csv('world-foodfeed-production.csv', encoding = "ISO-8859-1")
+df
