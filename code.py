@@ -32,3 +32,7 @@ df_homeless.info()
 # In[4]:
 
 df.head()
+
+
+# In[5]:
+df.describe()
