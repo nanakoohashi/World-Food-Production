@@ -58,7 +58,9 @@ df.isnull().sum()
 There are 21,477 entries in this dataset with 58 features (Area Abbreviation, Area Code, Area, Item Code, Item, Element Code, Element, latitude, longitude, Years 1961 to 2013).
 
 
-#### Main feature(s) of interest in the dataset
+# #### Main feature(s) of interest in the dataset
 
 
-#### What features in the dataset do you think will help support your investigation into your feature(s) of interest?
+# #### What features in the dataset do you think will help support your investigation into your feature(s) of interest?
+
+# ### Issues 
