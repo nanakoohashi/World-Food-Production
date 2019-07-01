@@ -66,5 +66,5 @@ There are 21,477 entries in this dataset with 58 features (Area Abbreviation, Ar
 # #### What features in the dataset do you think will help support your investigation into your feature(s) of interest?
 
 # ### Issues 
-- Remove `Item Code`, `Element Code`, and `Unit` columns.
+- Remove `Item Code`, `Element Code`, `latitude`, `longitude`, and `Unit` columns
 - Remove Y from year columns
