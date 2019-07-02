@@ -70,4 +70,10 @@ There are 21,477 entries in this dataset with 58 features (Area Abbreviation, Ar
 - Remove `feed` entries in `Element` column.
 - Remove Y from year columns.
 
+
 # ## Clean
+
+
+# In[9]:
+# make copy of data set
+df1= df.copy()
