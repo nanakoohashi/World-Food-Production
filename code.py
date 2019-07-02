@@ -75,5 +75,13 @@ There are 21,477 entries in this dataset with 58 features (Area Abbreviation, Ar
 
 
 # In[9]:
+
 # make copy of data set
 df1= df.copy()
+
+
+# In[10]:
+
+# drop 'Area Abbreviation' column
+df1.drop('Area Abbreviation', axis=1, inplace=True)
+df1
