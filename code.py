@@ -85,3 +85,10 @@ df1= df.copy()
 # drop 'Area Abbreviation' column
 df1.drop('Area Abbreviation', axis=1, inplace=True)
 df1
+
+
+# In[11]:
+
+# drop 'Area Code' column
+df1.drop('Area Code', axis=1, inplace=True)
+df1
