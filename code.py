@@ -99,3 +99,10 @@ df1
 # drop 'Item Code' column
 df1.drop('Item Code', axis=1, inplace=True)
 df1
+
+
+# In[13]:
+
+# drop 'Element Code' column
+df1.drop('Element Code', axis=1, inplace=True)
+df1
