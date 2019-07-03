@@ -134,3 +134,8 @@ df1
 # select elements that = "Food"
 df2 = df1.query('Element == "Food"')
 df2   
+
+
+# In[18]:
+
+df2.columns.unique()
