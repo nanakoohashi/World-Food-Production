@@ -120,3 +120,10 @@ df1
 # drop 'latitude' column
 df1.drop('latitude', axis=1, inplace=True)
 df1
+
+
+# In[16]:
+
+# drop 'longitude' column
+df1.drop('longitude', axis=1, inplace=True)
+df1
