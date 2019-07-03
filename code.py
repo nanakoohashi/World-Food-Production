@@ -139,3 +139,10 @@ df2
 # In[18]:
 
 df2.columns.unique()
+
+
+# In[19]:
+
+# Remove "Y" from all year columns
+df2.columns = df2.columns.str.replace("Y", "")
+df2f
