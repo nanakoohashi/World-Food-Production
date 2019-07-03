@@ -127,3 +127,10 @@ df1
 # drop 'longitude' column
 df1.drop('longitude', axis=1, inplace=True)
 df1
+
+
+# In[17]:
+
+# select elements that = "Food"
+df2 = df1.query('Element == "Food"')
+df2   
