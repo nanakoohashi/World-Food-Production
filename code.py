@@ -113,3 +113,10 @@ df1
 # drop 'Unit' column
 df1.drop('Unit', axis=1, inplace=True)
 df1
+
+
+# In[15]:
+
+# drop 'latitude' column
+df1.drop('latitude', axis=1, inplace=True)
+df1
