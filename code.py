@@ -31,7 +31,7 @@ df.head()
 
 # In[4]:
 
-df.shape()
+df.shape
 
 
 # In[5]:
