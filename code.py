@@ -149,3 +149,8 @@ df2
 # In[20]:
 
 df2.Item.unique()
+
+
+# In[21]:
+
+df.Area.unique()
