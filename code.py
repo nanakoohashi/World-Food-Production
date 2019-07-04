@@ -63,8 +63,6 @@ There are 21,477 entries in this dataset with 58 features (Area Abbreviation, Ar
 - Change in food production by year.
 
 
-# #### What features in the dataset do you think will help support your investigation into your feature(s) of interest?
-
 # ### Issues 
 - Remove `Area Abbreviation`, `Area Code`, `Item Code`, `Element Code`, `latitude`, `longitude`, and `Unit` columns.
 - Remove `feed` entries in `Element` column.
