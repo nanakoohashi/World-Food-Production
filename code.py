@@ -161,3 +161,8 @@ df2.Item.unique()
 # In[21]:
 
 df.Area.unique()
+
+
+# In[22]:
+
+df2.to_csv('df_agriculture.csv')
