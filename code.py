@@ -136,6 +136,13 @@ df2
 
 # In[18]:
 
+# drop 'Element' column
+df2.drop('Element', axis=1, inplace=True)
+df2
+
+
+# In[18]:
+
 df2.columns.unique()
 
 
