@@ -155,6 +155,7 @@ df2
 
 # In[20]:
 
+#list unique entries in 'Item' column
 df2.Item.unique()
 
 
