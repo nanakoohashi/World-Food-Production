@@ -160,7 +160,7 @@ df2.Item.unique()
 
 # In[21]:
 
-df.Area.unique()
+df2.Area.unique()
 
 
 # In[22]:
