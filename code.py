@@ -161,6 +161,7 @@ df2.Item.unique()
 
 # In[21]:
 
+#list unique entries in 'Area' column
 df2.Area.unique()
 
 
