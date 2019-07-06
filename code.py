@@ -164,10 +164,13 @@ df2.Item.unique()
 #list unique entries in 'Area' column
 df2.Area.unique()
 
+
 # In[22]:
 
 # Transpose data frame
 df2.T
+
+
 # In[22]:
 
 #save to csv file
