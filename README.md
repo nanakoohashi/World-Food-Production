@@ -2,6 +2,7 @@
 ## Summary
 
 ## Getting Started
+### Dependencies
 ### Libraries
 - pandas
 - zipfile
