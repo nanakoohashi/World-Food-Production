@@ -3,6 +3,7 @@
 
 ## Getting Started
 ### Dependencies
+- Windows 10
 ### Libraries
 - pandas
 - zipfile
