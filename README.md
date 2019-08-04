@@ -3,4 +3,8 @@
 
 ## Getting Started
 ### Libraries
-
+- pandas
+- zipfile
+- matplotlib
+- seaborn
+- numpy
