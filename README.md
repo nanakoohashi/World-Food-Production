@@ -13,3 +13,4 @@ This project aims to find country sources of the food we eat.
 ## Steps
 ### 1. Gather data
 I started this project by importing essential packages and reading the .csv file. 
+### 2. Assess the data 
