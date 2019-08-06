@@ -10,4 +10,5 @@ This project aims to find country sources of the food we eat.
 - matplotlib
 - seaborn
 - numpy
-### Steps
+## Steps
+### 1. Gather data
