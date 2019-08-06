@@ -14,3 +14,4 @@ This project aims to find country sources of the food we eat.
 ### 1. Gather data
 I started this project by importing essential packages and reading the .csv file. 
 ### 2. Assess the data 
+Using common data assessing code, I assessed the data and looked for any issues with the type of data and format of the data in the two datasets. 
