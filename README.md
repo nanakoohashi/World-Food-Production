@@ -22,3 +22,4 @@ Using common data assessing code, I assessed the data and looked for any issues 
 I fixed the issues I found while assessing the data, merged the two data sets, and prepared the new data set for visualization.
 ### 4. Visualize
 I used Tableau to visualize the data from the cleaned data sets.
+### 5. Export
