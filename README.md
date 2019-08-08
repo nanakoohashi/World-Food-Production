@@ -23,3 +23,4 @@ I fixed the issues I found while assessing the data, merged the two data sets, a
 ### 4. Visualize
 I used Tableau to visualize the data from the cleaned data sets.
 ### 5. Export
+Wrote DataFrame to a .csv file
