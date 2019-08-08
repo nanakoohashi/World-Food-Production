@@ -26,4 +26,4 @@ I used Tableau to visualize the data from the cleaned data sets.
 Wrote DataFrame to a .csv file
 
 ## References
-The Food and Agriculture Organization of the United Nations, (n.d.). *Worldwide food/feed production and distribution, 1961-2013*. Retrieved from http://www.fao.org/faostat/en/#home.
+- The Food and Agriculture Organization of the United Nations, (n.d.). *Worldwide food/feed production and distribution, 1961-2013*. Retrieved from http://www.fao.org/faostat/en/#home.
