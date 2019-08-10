@@ -1,7 +1,7 @@
 # Agriculture Data - README
 
 ## Summary
-This project aims to find country sources of the food we eat.
+Tonnes of food is produced worldwide on a daily basis. This project aims to show the amount of food produced by the countries around the world by item type.
 
 ## Getting Started
 ### Dependencies
