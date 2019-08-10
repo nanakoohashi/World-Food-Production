@@ -27,7 +27,7 @@ Wrote DataFrame to a .csv file
 
 ## Findings
 
-### Visualiations
+### Visualizations
 I created dashboards using Tableau which can be seen by clicking on the links below:
 - [World Food Production in 2013](
 https://public.tableau.com/views/Agriculture_15654142640320/Dashboard2?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link).
@@ -45,6 +45,16 @@ https://public.tableau.com/views/Agriculture_15654142640320/Dashboard2?:embed=y&
 10. Japan
 
 ### Which Countries Produced the Least Food in 2013?
+1. Saint Kitts and Nevis
+2. Bermuda
+3. Antigua and Barbuda
+4. Kiribati
+5. Dominica
+6. Saint Vincent and the Grenadines
+7. Saint Lucia
+8. Sao Tome and Principe
+9. Samoa
+10. New Caledonia
 
 ## References
 - **The Food and Agriculture Organization of the United Nations (n.d.).** *Worldwide food/feed production and distribution, 1961-2013*. Retrieved from http://www.fao.org/faostat/en/#home.
