@@ -1,7 +1,7 @@
 # Agriculture Data - README
 
 ## Summary
-Tonnes of food is produced worldwide on a daily basis. This project aims to show the amount of food produced by the countries around the world by item type.
+Tonnes of food are produced worldwide on a daily basis. This project aims to show the amount of food produced by the countries around the world by item type.
 
 ## Getting Started
 ### Dependencies
