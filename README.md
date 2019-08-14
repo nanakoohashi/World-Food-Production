@@ -35,12 +35,11 @@ https://public.tableau.com/profile/nanakoohashi#!/vizhome/WorldFoodProductionin2
 - [World Food Production in 2013 - Highlight Table](https://public.tableau.com/profile/nanakoohashi#!/vizhome/WorldFoodProduction2013-HeatGraph/Dashboard4).
 - [World Food Production from 1961 to 2013 - Bar Chart](https://public.tableau.com/profile/nanakoohashi#!/vizhome/WorldFoodProduction-BarChart/Dashboard5).
 
-
 ### Which Countries Produced the Most Food in 2013?
 1. China
 2. India
 3. United States of America
-4. Russian Federation
+4. Russia
 5. Indonesia
 6. Nigeria
 7. Pakistan
@@ -64,6 +63,7 @@ https://public.tableau.com/profile/nanakoohashi#!/vizhome/WorldFoodProductionin2
 - **China** produced the most **alcoholic beverages** in 2013, more than twice the amount that the U.S. (who ranked second) produced.
 - **India** produced the most **bananas** in 2013, more than double the amount that China (who ranked second) produced.
 - **The United States of America** produced the most **coffee** in 2013, more than double the amount that Brazil (who ranked second) produced.
+- **India** produced the most **coconut oil** in 2013, follwed by the Philippines.
 - **China** produced the most **meat** in 2013, more than double the amount that the U.S. (who ranked second) produced.
 - **Italy** produced the most **olive oil** in 2013, followed by Spain.
 
