@@ -65,6 +65,7 @@ https://public.tableau.com/profile/nanakoohashi#!/vizhome/WorldFoodProductionin2
 - **The United States of America** produced the most **coffee** in 2013, more than double the amount that Brazil (who ranked second) produced.
 - **India** produced the most **coconut oil** in 2013, followed by the Philippines.
 - **Germany** produced the most **cream** in 2013, followed by Russia.
+- **Egypt** produced the most **dates** in 2013, followed by Saudi Arabia.
 - **China** produced the most **meat** in 2013, more than double the amount that the U.S. (who ranked second) produced.
 - **Italy** produced the most **olive oil** in 2013, followed by Spain.
 
