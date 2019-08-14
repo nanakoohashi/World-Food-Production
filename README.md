@@ -63,6 +63,7 @@ https://public.tableau.com/profile/nanakoohashi#!/vizhome/WorldFoodProductionin2
 ### Fun Facts
 - **China** produced the most **alcoholic beverages** in 2013, more than twice the amount that the U.S. (who ranked second) produced.
 - **India** produced the most **bananas** in 2013, more than double the amount that China (who ranked second) produced.
+- **China** produced the most **meat** in 2013, more than double the amount that the U.S. (who ranked second) produced.
 
 ## References
 - **The Food and Agriculture Organization of the United Nations (n.d.).** *Worldwide food/feed production and distribution, 1961-2013*. Retrieved from http://www.fao.org/faostat/en/#home.
