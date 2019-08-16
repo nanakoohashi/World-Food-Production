@@ -62,6 +62,7 @@ https://public.tableau.com/profile/nanakoohashi#!/vizhome/WorldFoodProductionin2
 ### Fun Facts
 - **China** produced the most **alcoholic beverages** in 2013, more than twice the amount that the U.S. (who ranked second) produced.
 - **India** produced the most **bananas** in 2013, more than double the amount that China (who ranked second) produced.
+- **India** produced the most **beans** in 2013, followed by Brazil.
 - **The United States of America** produced the most **coffee** in 2013, more than double the amount that Brazil (who ranked second) produced.
 - **India** produced the most **coconut oil** in 2013, followed by the Philippines.
 - **Germany** produced the most **cream** in 2013, followed by Russia.
