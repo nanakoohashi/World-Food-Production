@@ -21,10 +21,11 @@ I started this project by importing essential packages and reading the .csv file
 Using common data assessing code, I assessed the data and looked for any issues with the type of data and format of the data in the two datasets. 
 ### 3. Clean the data
 I fixed the issues I found while assessing the data, merged the two data sets, and prepared the new data set for visualization.
-### 4. Visualize
-I used Tableau to visualize the data from the cleaned data sets.
-### 5. Export
+### 4. Export
 Wrote DataFrame to a .csv file
+### 5. Visualize
+I used Tableau to visualize the data from the cleaned data sets.
+
 
 ## Findings
 
