@@ -70,7 +70,7 @@ https://public.tableau.com/profile/nanakoohashi#!/vizhome/WorldFoodProductionin2
 - **China** produced the most **meat** in 2013, more than double the amount that the U.S. (who ranked second) produced.
 - **Italy** produced the most **olive oil** in 2013, followed by Spain.
 - **Egypt** produced the most **olives** in 2013, followed by Turkey.
-- **Uganda** produced the most **platains** in 2013, followed by Ghana.
+- **Uganda** produced the most **plantains** in 2013, followed by Ghana.
 - **The United States of America** produced the most **wine** in 2013, followed by France.
 - **Nigeria** produced the most **yams** in 2013, more than quadruple the amount that Ghana (who ranked second) produced.
 
