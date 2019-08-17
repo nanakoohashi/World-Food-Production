@@ -6,6 +6,7 @@ Tonnes of food are produced worldwide on a daily basis. This project aims to sho
 ## Getting Started
 ### Dependencies
 - Windows 10
+- Python 3
 - Tableau 2019.2
 ### Libraries
 - pandas
